@@ -82,7 +82,7 @@ function App() {
                   <div>
                     <label className="block text-sm font-semibold text-gray-700 mb-2">Integrantes del equipo:</label>
                     <div className="bg-gray-50 p-3 rounded-lg border border-gray-200">
-                      <span className="text-gray-600">[Nombres de los estudiantes]</span>
+                      <span className="text-purple-600">Gabriel Rodriguez - Ficha 53364</span>
                     </div>
                   </div>
                   
